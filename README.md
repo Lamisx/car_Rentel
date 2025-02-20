@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Additional Documentation
 For more detailed information, refer to the full project documentation:
-[Car Rental Software Documentation](./Car_Rental_Software.pdf)
+[Car Rental Software Documentation](./Car Rental Software.pdf)
 
 ## Contact
 For any inquiries or contributions, please reach out to the development team.
